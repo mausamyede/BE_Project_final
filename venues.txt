@@ -1,0 +1,56 @@
+Nelson,1
+Durban,3
+Mirpur,0
+Colombo,0
+Chittagong,0
+Christchurch,1
+Wellington,1
+Centurion,3
+Nottingham,2
+Perth,1
+St Kitts,3 
+Barbados,3
+Cardiff,2
+Delhi,0
+Johannesburg,3
+Bulawayo,3
+Mount Maunganui,1
+Hamilton,1
+Leeds,2
+Manchester,2
+Mumbai,0
+Abu Dhabi,0
+Southampton,2
+East London,3
+Birmingham,2
+Guyana,3
+Dunedin,1
+Indore,0
+Port Elizabeth,3
+Brisbane,1
+Rajkot,0
+Chennai,0
+Chandigarh,0
+Auckland,1 
+Bloemfontein,3
+Hambantota,0
+Sydney,1
+Dharmasala,0
+Napier,1
+London,2
+Canberra,1
+Kanpur,0
+Cape Town,3
+Potchefstroom,3
+Chester-le-Street,2
+Ranchi,0
+Visakhapatnam,0
+Hobart,1
+Melbourne,1
+Sharjah,0
+Kolkata,0
+Pallekele,0
+Adelaide,1
+Dambulla,0
+Harare,3
+Dubai,0
