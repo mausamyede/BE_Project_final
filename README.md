@@ -11,4 +11,4 @@ On terminal 2
 2> Open eclipse with root priviledges  
 3> Run ReadFromKafka.java  
 4> python scraper_sim_trial.py /home/mausam/2016-10-12-South\ Africa-Australia.csv //for simulation  
-5> python scraper.py http://www.espncricinfo.com/west-indies-v-england-2016-17/engine/match/1027315.html [match page url from espncricinfo] //for live matches  
+5> python scraper_trial.py http://www.espncricinfo.com/west-indies-v-england-2016-17/engine/match/1027315.html [match page url from espncricinfo] //for live matches  
